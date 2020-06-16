@@ -5,5 +5,5 @@
     * [] write function that changes screen
     * [] create several elements that invoke previous function with element info when clicked
     * [] pass element value into screen when element is clicked
-    [here]( https://deborahneal.github.io/CalculatorProject2/.)
+       [here]( https://deborahneal.github.io/CalculatorProject2/.)
     
